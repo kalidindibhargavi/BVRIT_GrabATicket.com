@@ -8,3 +8,53 @@ Command-line arguments:  -data /home/user/git_demo/MyRepo -os linux -ws gtk -arc
 
 !ENTRY org.eclipse.ui.navigator.resources 4 0 2016-06-01 11:28:45.757
 !MESSAGE Could not acquire INavigatorContentService: Project Explorer not found.
+!SESSION 2016-06-01 19:06:58.862 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.7.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2016-06-01 19:09:36.075
+!MESSAGE cacheFile=file:/home/user/Downloads/eclipse/configuration/org.eclipse.wst.server.discovery/serverAdapterSitesDetails.xml
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-06-01 19:09:43.716
+!MESSAGE Invalid site reference %updateSiteURL in feature com.pramati.eclipse.feature.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-06-01 19:09:43.754
+!MESSAGE Invalid site reference %updateSiteURL in feature com.pramati.eclipse.feature.
+
+!ENTRY org.eclipse.equinox.p2.publisher.eclipse 4 0 2016-06-01 19:09:43.755
+!MESSAGE Invalid site reference %updateSiteURL in feature com.pramati.eclipse.feature.
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2016-06-01 19:12:10.091
+!MESSAGE cacheFile=file:/home/user/Downloads/eclipse/configuration/org.eclipse.wst.server.discovery/serverAdapterSitesDetails.xml
+
+!ENTRY org.eclipse.wst.server.core 4 0 2016-06-01 19:12:14.215
+!MESSAGE Server Tomcat v7.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2016-06-01 19:18:47.537
+!MESSAGE Server Tomcat v7.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2016-06-01 19:23:07.892
+!MESSAGE Server Tomcat v7.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2016-06-01 19:23:43.028
+!MESSAGE cacheFile=file:/home/user/Downloads/eclipse/configuration/org.eclipse.wst.server.discovery/serverAdapterSitesDetails.xml
+
+!ENTRY org.eclipse.wst.server.core 4 0 2016-06-01 19:35:02.905
+!MESSAGE Server Tomcat v7.0 Server at localhost failed to start.
+!SESSION 2016-06-01 19:38:28.556 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.7.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2016-06-01 20:04:12.579
+!MESSAGE cacheFile=file:/home/user/Downloads/eclipse/configuration/org.eclipse.wst.server.discovery/serverAdapterSitesDetails.xml
+
+!ENTRY org.eclipse.ui.navigator.resources 4 0 2016-06-01 21:40:05.168
+!MESSAGE Could not acquire INavigatorContentService: Project Explorer not found.
