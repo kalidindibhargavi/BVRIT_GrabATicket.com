@@ -98,7 +98,5 @@ modal-header, h4, close {
     </div>
   </div>
 </div>
-
-
 </body>
 </html>

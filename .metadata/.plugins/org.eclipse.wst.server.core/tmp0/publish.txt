@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sun Jun 05 12:50:36 IST 2016
+org.eclipse.jst.j2ee.server\:log4j-1.2.17=WEB-INF/lib/log4j-1.2.17.jar
+org.eclipse.jst.j2ee.server\:mysql-connector-java-5.1.39-bin=WEB-INF/lib/mysql-connector-java-5.1.39-bin.jar
